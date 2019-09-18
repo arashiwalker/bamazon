@@ -64,5 +64,3 @@ All three Modes have shared database. It means that if customer will buy some pr
 * Product quantity in customer and manager modes
 * Product sales in manager and supervisor modes
 * Total profit in supervisor mode
-
-__REMEMBER__ If you would like to create a new department and new product under this department, you should create the department first. Because if you will write not exist Department ID, product will not be created.
