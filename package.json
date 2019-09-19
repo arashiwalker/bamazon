@@ -1,7 +1,7 @@
 {
   "name": "bamazon",
   "version": "1.0.0",
-  "description": "",
+  "description": "Bamazon-node-app is Amazon-like app, created with JavaScript, Node.js and MySQL database. The application has 3 modes: Customer mode, Manager mode and Supervisor mode.",
   "main": "bamaoznSupport.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/arashiwalker/bamazon/issues"
   },
-  "homepage": "https://github.com/arashiwalker/bamazon#readme"
+  "homepage": "https://github.com/arashiwalker/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^7.0.0",
+    "mysql": "^2.17.1"
+  }
 }
