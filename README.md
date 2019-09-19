@@ -4,6 +4,7 @@ Bamazon-node-app is Amazon-like app, created with JavaScript, Node.js and MySQL 
 
 
 ![screenshot](bamazon.png)
+![screenshot](bamazon2.png)
 
 **Customer Mode**
 
