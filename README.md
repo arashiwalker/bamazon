@@ -1,6 +1,6 @@
 # Bamazon-node-app
 
-Bamazon-node-app is Amazon-like app, created with JavaScript, Node.js and MySQL database. The application has 3 modes: Customer mode, Manager mode and Supervisor mode.
+Bamazon-node-app is Amazon-like app, created with JavaScript, Node.js and MySQL database.
 
 
 ![screenshot](bamazon.png)
